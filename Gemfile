@@ -10,7 +10,7 @@ gem 'rails', '~> 6.0.0'
 
 
 # Use Puma as the app server
-gem 'puma', '~> 3.11'
+gem 'puma', '~> 4.3'
 gem 'simple_form'
 gem 'devise', '~> 4.7', '>= 4.7.1'
 # Use SCSS for stylesheets
